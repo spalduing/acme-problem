@@ -1,0 +1,23 @@
+{
+  "name": "acme-problem",
+  "version": "1.0.0",
+  "description": "ACME flexibility problem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spalduing/acme-problem.git"
+  },
+  "author": "mdiazc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spalduing/acme-problem/issues"
+  },
+  "homepage": "https://github.com/spalduing/acme-problem#readme",
+  "devDependencies": {
+    "jest": "28.1.3"
+  }
+}
